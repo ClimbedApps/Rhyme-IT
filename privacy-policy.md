@@ -1,6 +1,6 @@
 # Privacy Policy for Rhyme-IT
 
-**Last updated:** [DATE — fill in before publishing]
+**Last updated:** 15-08-2026
 
 Rhyme-IT ("the app", "we", "us") is a nursery-rhyme reading app for parents, grandparents and their children. This policy explains what information the app handles, why, and the choices you have. It's written to be read by a parent, not a lawyer — but you (the developer) should have it reviewed before publishing, and fill in the bracketed placeholders below.
 
@@ -45,8 +45,6 @@ Rhyme-IT is designed to be used by parents and children together, with an adult 
 
 Any name, voice recording, or profile label you enter for a child or family member is stored only on your own device, under your control, and can be deleted at any time from within the app.
 
-*[Placeholder: state your specific compliance position here once reviewed — e.g. "This app is designed to comply with the Google Play Families Policy and, for U.S. users, the Children's Online Privacy Protection Act (COPPA)." Don't publish a compliance claim you haven't actually had reviewed.]*
-
 ## In-app purchases
 
 Rhyme-IT offers an optional full-version purchase (a monthly subscription or a one-time lifetime purchase) to unlock the complete rhyme library and additional features. All payments are handled entirely by **Google Play Billing** — Rhyme-IT never sees or stores your payment card details, billing address, or other payment information. Google's handling of that transaction is governed by the [Google Play Terms of Service](https://play.google.com/about/play-terms/) and [Google's Privacy Policy](https://policies.google.com/privacy), not this policy.
@@ -68,8 +66,6 @@ Everything Rhyme-IT stores lives in the app's private storage on your device. Yo
 
 Voice recordings and profile data are stored in the app's private, sandboxed storage area, which other apps on your device cannot access under normal Android security rules. Files you choose to export via the backup feature are not currently encrypted before being handed to the system file picker — treat any backup file with the same care you'd give any other file containing family recordings.
 
-*[Placeholder: update this section if/when the backup format changes to add encryption.]*
-
 ## Changes to this policy
 
 If this policy changes, we'll update the "Last updated" date at the top of this document. Significant changes will be reflected in the app's release notes.
@@ -78,5 +74,5 @@ If this policy changes, we'll update the "Last updated" date at the top of this 
 
 Questions about this policy or your data can be sent to:
 
-**[Placeholder: your contact email address]**
-**[Placeholder: developer/company name, if applicable]**
+**climbedapps@gmail.com**
+**ClimbedApps**
